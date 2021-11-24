@@ -1,4 +1,4 @@
-#aws-cdk-fsx-lustre-batch-mount
+# aws-cdk-fsx-lustre-batch-mount
 
 This [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) project deploys an [AWS FSx for Lustre](https://aws.amazon.com/fsx/lustre/) filesystem and mounts it on [AWS Batch](https://aws.amazon.com/batch/) tasks to access S3 data from batch workloads with a shared storage.
 
